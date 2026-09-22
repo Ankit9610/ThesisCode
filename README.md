@@ -78,7 +78,7 @@ Burstiness results
 Dimensionality-reduction results
 Statistical comparison results
 
-(ii) Programms creates one folder and saves all graphs in that folder.
+
 
 
 
